@@ -1,0 +1,1393 @@
+2025-11-09 20:15:05 | unimol_tools\models\unimol.py | 167 | INFO | Uni-Mol Tools | Loading pretrained weights from D:\anaconda3\envs\SimbaDTA\lib\site-packages\unimol_tools\weights\mol_pre_all_h_220816.pt
+2025-11-09 20:15:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:51 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:51 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:51 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:51 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:15:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:15:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:02 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:05 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:05 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:05 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:05 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:51 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:51 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:51 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:51 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:58 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:58 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:58 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:58 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:16:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:16:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:32 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:32 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:32 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:32 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:58 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:58 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:17:58 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:17:58 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:03 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:03 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:04 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:04 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:04 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:04 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:08 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:08 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:10 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:10 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:32 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:32 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:32 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:32 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:44 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:45 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:47 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:47 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:49 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:49 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:50 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:54 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:54 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:18:59 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:18:59 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:00 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:00 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:01 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:04 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:04 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:05 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:05 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:06 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:06 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:09 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:09 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:11 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:11 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:15 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:19 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:19 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:20 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:20 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:31 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:31 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:33 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:33 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:42 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:42 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:43 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:43 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:46 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:46 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:48 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:48 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:52 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:52 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:53 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:53 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:55 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:55 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:56 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:56 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:19:57 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:19:57 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:04 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:04 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:04 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:04 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:05 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:05 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:05 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:05 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:07 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:07 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:12 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:12 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:13 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:13 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:14 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:14 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:16 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:16 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:17 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:18 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:18 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:21 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:21 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:22 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:22 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:23 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:23 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:24 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:24 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:25 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:25 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:26 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:26 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:27 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:27 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:28 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:28 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:29 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:29 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:30 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:30 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:34 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:35 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:36 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:37 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:38 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:39 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:39 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:40 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:40 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
+2025-11-09 20:20:41 | unimol_tools\tasks\trainer.py | 78 | INFO | Uni-Mol Tools | Number of GPUs available: 1
+2025-11-09 20:20:41 | unimol_tools\tasks\trainer.py | 98 | INFO | Uni-Mol Tools | Using single GPU.
